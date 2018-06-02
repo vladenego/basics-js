@@ -1,6 +1,6 @@
-var age = 17;
+// var age = 17;
 
-console.log('Age =', age);
+// console.log('Age =', age);
 
 
 // Оператор условия
@@ -12,8 +12,14 @@ console.log('Age =', age);
 
 
 // Массивы. Индексация начинается с 0
-var array = [2, 3, 4, 9];
-// console.log(array[0]);
+// var array = [2, 3, 4, 9];
+// console.log(array);
+
+// array.push(2);
+// console.log(array);
+
+// array.pop();
+// console.log(array);
 
 // Цикл for
 
@@ -37,11 +43,10 @@ var array = [2, 3, 4, 9];
 
 // Цикл while
 
-
 // var isTrue = true;
 // var counter = 0;
 
-// while (isTrue === true) {
+// while (isTrue) {
 //   console.log('tratata');
 //   counter++;
 
@@ -49,3 +54,12 @@ var array = [2, 3, 4, 9];
 //     isTrue = false;
 //   }
 // }
+
+
+// Объект
+// var obj = {
+//   kek: 1,
+//   keks: 'dasdas'
+// }
+
+// console.log(obj);

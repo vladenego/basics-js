@@ -1,5 +1,3 @@
-# save me from learning js
-Help me!!!
+# learning
 
-test string
-this is my string
+Help me!!!

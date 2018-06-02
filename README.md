@@ -1,2 +1,2 @@
-# basics-js
-Slavik helps me to learn js
+# save me from learning js
+Help me!!!

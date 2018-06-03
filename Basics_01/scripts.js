@@ -1,65 +1,65 @@
-// var age = 17;
+var age = 17;
 
-// console.log('Age =', age);
-
-
-// Оператор условия
-// if (age > 18) {
-//   console.log('> 18');
-// } else if (age < 16) {
-//   console.log('age < 16');
-// }
+console.log('Age =', age);
 
 
-// Массивы. Индексация начинается с 0
-// var array = [2, 3, 4, 9];
-// console.log(array);
-
-// array.push(2);
-// console.log(array);
-
-// array.pop();
-// console.log(array);
-
-// Цикл for
-
-// var sum = 0;
-
-// for (var i = 0; i < array.length; i++) { // i => 0, 1, 2, 3, 4, 5, 6, 7, 8, 9
-//   console.log(array[i]);
-//   // sum = sum + array[i];
-//   sum += array[i];
-// }
-
-// // i = i + 1
-// // i += 1
-
-// console.log('Sum =', sum);
-
-// // Проверка => тело цикла => шаг => проверка
-
-// //
+Оператор условия
+if (age > 18) {
+  console.log('> 18');
+} else if (age < 16) {
+  console.log('age < 16');
+}
 
 
-// Цикл while
+Массивы. Индексация начинается с 0
+var array = [2, 3, 4, 9];
+console.log(array);
 
-// var isTrue = true;
-// var counter = 0;
+array.push(2);
+console.log(array);
 
-// while (isTrue) {
-//   console.log('tratata');
-//   counter++;
+array.pop();
+console.log(array);
 
-//   if (counter === 5) {
-//     isTrue = false;
-//   }
-// }
+Цикл for
+
+var sum = 0;
+
+for (var i = 0; i < array.length; i++) { // i => 0, 1, 2, 3, 4, 5, 6, 7, 8, 9
+  console.log(array[i]);
+  // sum = sum + array[i];
+  sum += array[i];
+}
+
+// i = i + 1
+// i += 1
+
+console.log('Sum =', sum);
+
+// Проверка => тело цикла => шаг => проверка
+
+//
 
 
-// Объект
-// var obj = {
-//   kek: 1,
-//   keks: 'dasdas'
-// }
+Цикл while
 
-// console.log(obj);
+var isTrue = true;
+var counter = 0;
+
+while (isTrue) {
+  console.log('tratata');
+  counter++;
+
+  if (counter === 5) {
+    isTrue = false;
+  }
+}
+
+
+Объект
+var obj = {
+  kek: 1,
+  keks: 'dasdas'
+}
+
+console.log(obj);

@@ -19,10 +19,13 @@
 
 var array = [2, 4, 7, 10, -3, 8, 6, 1]
 for (var i = 0; i < array.length; i++) {
-if ( array[i] % 2 == 0) {
-  console.log(array[i]);
+if ( array[i] % 2 !== 0) {
+
+  push(array[i]);
 }
+
 }
+
 
 
 
